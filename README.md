@@ -9,3 +9,7 @@ Terminologies Used-
 
 Thanks to 
 https://github.com/itmmckernan 
+
+![image](https://github.com/vardhanyadav171415/TriviaQuizApp/assets/99421446/d18417a7-65b1-4a77-bce8-12bc16ee33db)
+
+![image2](https://github.com/vardhanyadav171415/TriviaQuizApp/assets/99421446/8f741697-5778-4959-8003-9b5b771e051a)
