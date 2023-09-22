@@ -9,6 +9,7 @@ Terminologies Used-
 
 Thanks to 
 https://github.com/itmmckernan 
+https://github.com/pdichone
 
 ![image](https://github.com/vardhanyadav171415/TriviaQuizApp/assets/99421446/d18417a7-65b1-4a77-bce8-12bc16ee33db)
 
